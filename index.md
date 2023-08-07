@@ -22,7 +22,40 @@ We solicit submissions on the following research topics but not limited to this 
 2. Prompt or In-Context Explanations of the LLM-generated content in terms of attention-based or counter-factual explanations of the prompts, i.e., which parts of the prompts are more important in determining the class probabilities (via generation of class-specific sets of words by the decoder).
 3. Linking LLM-generated answers to knowledge bases or use knowledge bases to formulate template-driven prompts.
 4. LLMs for generating weak labels for various applications, or to generate simulated data (silver-standard ground-truth) to reduce annotation effort.
-5. Adaptive In-context learning for LLMs, i.e., work towards developing a transparent LLM-based in-context learning model that explains the different choices employed in prompt learning, which may include 
+5. Adaptive In-context learning for LLMs, i.e., work towards developing a transparent LLM-based in-context learning model that explains the different choices employed in prompt learning, which may include -
+   - What similarity metric to employ for generating the few-shot examples, e.g., sparse vectors, dense embedding, task-specific dense embedding etc.
+   - How many few shot examples to use.
+   - Explore combination (apriori and post-hoc) of LLM-based in-context learning with supervised parametric models.
+6. Fair Predictions with LLMs, i.e., mitigate the detrimental effects of biased responses with suitable prompts.
+7. Adversarial Robustness of LLMs, i.e., optimise the robustness of LLM-based in context learning to adversarial attacks based on prompt injections.
+8. LLM-driven in-context learning for search and recommendation, i.e., explore the potential of LLMs for personalised search and recommendation. Since LLMs have been shown to work well with small quantities of task-specific training data, they can potentially be used to improve the effectiveness of personalized search and recommendation.
+9. Multi-modal LLMs, involving exploration on the topics related to the interpretability and trustworthiness of LLMs in the particular context of multi-modal predictive tasks, e.g., visual question answering etc.
+10. Ethical concerns of LLMs, i.e., research on topics related to a responsible use of LLMs and their socio-economic implications.
+
+
+## Submission Guidelines
+
+Papers submitted should be 4-10 pages of content (plus any number of additional pages for references). Papers must be submitted in PDF according to the **what** format. The review process is double-blind. Paper should be uploaded via Easychair via this submission link. Accepted papers will be included in the **what** proceedings and at least one author of each accepted contribution must attend the workshop. After acceptance, no additional authors can be added.
+
+## Important Dates (AoE)
+
+* Paper Submission Deadline - 30th August, 2023
+* Review Notifications - 18th September, 2023
+* Camera-ready Due - 25th September, 2023
+* Workshop Day - 22nd October, 2023
+
+## Organizers
+
+* [Tulika Saha](https://sahatulika15.github.io/), University of Liverpool, United Kingdom
+* [Debasis Ganguly](https://gdebasis.github.io/), University of Glasgow, United Kingdom
+* [Sriparna Saha](https://www.iitp.ac.in/~sriparna/), Indian Institute of Technology Patna, India
+* [Prasenjit Mitra](https://ist.psu.edu/directory/pum10), Pennsylvania State University, U.S.A
+
+## Contact Us
+
+Please reach out to the organizers for any questions.
+
+```
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. OK
 
@@ -50,14 +83,14 @@ var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
-```
 
-```ruby
+
+ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+
 
 #### Header 4
 
@@ -136,10 +169,10 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
+
+
 The final element.
 ```
