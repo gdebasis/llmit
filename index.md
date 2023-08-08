@@ -48,7 +48,9 @@ Papers submitted should be **4 to 10 pages of content** (plus any number of addi
 
 Accepted papers will be included in the CIKM'23 companion volume (**published by CEUR** and **indexed by DBLP**). At least one author of each accepted contribution must attend the workshop. No additional authors can be added after acceptance.
 
-## Important Dates (AoE)
+## Important Dates
+
+The following dates are in AoE (Anywhere on Earth) timezone.
 
 * Paper Submission Deadline - 30th August, 2023
 * Review Notifications - 18th September, 2023
