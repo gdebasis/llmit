@@ -2,10 +2,7 @@
 layout: default
 ---
 
-[Call for Papers](#call-for-papers)
-[Submission Guidelines](#submission-guidelines)
-[Important Dates](#important-dates)
-[Organizers](#organizers)
+| Call for Papers](#call-for-papers) | Submission Guidelines(#submission-guidelines) | Important Dates(#important-dates) | Organizers(#organizers) |
 
 ## Workshop Motivation and Description
 
