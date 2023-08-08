@@ -44,7 +44,7 @@ We solicit submissions on (but not limited to) the following research topics.
 
 Papers submitted should be **4 to 10 pages of content** (plus any number of additional pages for references). Papers must be submitted in PDF as per the [CEUR](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw") format. The review process is **double-blind**. Papers should be uploaded via Easychair via the following submission link.
 
-- Paper Submission Link (Coming soon!)
+- Submit your papers via this [link](https://easychair.org/conferences/?conf=llmit23)
 
 Accepted papers will be included in the CIKM'23 companion volume (**published by CEUR** and **indexed by DBLP**). At least one author of each accepted contribution must attend the workshop. No additional authors can be added after acceptance.
 
@@ -62,6 +62,8 @@ The following dates are in AoE (Anywhere on Earth) timezone.
 * [Tulika Saha](https://sahatulika15.github.io/), University of Liverpool, United Kingdom
 * [Debasis Ganguly](https://gdebasis.github.io/), University of Glasgow, United Kingdom
 * [Sriparna Saha](https://www.iitp.ac.in/~sriparna/), Indian Institute of Technology Patna, India
-* [Prasenjit Mitra](https://ist.psu.edu/directory/pum10), Pennsylvania State University, U.S.A
+* [Prasenjit Mitra](https://ist.psu.edu/directory/pum10), Pennsylvania State University, USA
+
+For any questions, send an email to this [alias](mailto:llmit23@easychair.org)
 
 Please reach out to the organizers for any questions.
