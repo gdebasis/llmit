@@ -52,7 +52,7 @@ Accepted papers will be included in the CIKM'23 companion volume (**published by
 
 The following dates are in AoE (Anywhere on Earth) timezone.
 
-* Paper Submission Deadline - 30th August, 2023
+* Paper Submission Deadline - ~~30th August~~ 4th September, 2023
 * Review Notifications - 18th September, 2023
 * Camera-ready Due - 25th September, 2023
 * Workshop Day - 22nd October, 2023
