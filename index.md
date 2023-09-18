@@ -54,7 +54,7 @@ The following dates are in AoE (Anywhere on Earth) timezone.
 
 * Paper Submission Deadline - ~~30th August~~ 4th September, 2023
 * Review Notifications - ~~18th September~~ 25th September, 2023
-* Camera-ready Due - ~~25th September~~ 30th Septeber, 2023
+* Camera-ready Due - ~~25th September~~ 30th September, 2023
 * Workshop Day - 22nd October, 2023
 
 ## Organizers
