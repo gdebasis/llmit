@@ -42,7 +42,7 @@ We solicit submissions on (but not limited to) the following research topics.
 
 ## Submission Guidelines
 
-Papers submitted should be **4 to 10 pages of content** (plus any number of additional pages for references). Papers must be submitted in PDF as per the [CEUR](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) format. The review process is **double-blind**. Papers should be uploaded via Easychair via the following submission link.
+Papers submitted should be **4 to 10 pages of content** (plus any number of additional pages for references). Papers must be submitted in PDF as per the [CEUR](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) single-column conference format. The review process is **double-blind**. Papers should be uploaded via Easychair via the following submission link.
 
 - Submit your papers via this [link](https://easychair.org/conferences/?conf=llmit23).
 
