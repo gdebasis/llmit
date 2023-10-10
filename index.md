@@ -21,13 +21,12 @@ Despite producing semantically coherent and potentially relevant text for a give
 
 With reference to the above-mentioned problems of LLM usage, in this workshop, **Large Language Models’ Interpretability and Trustworthiness (LLMIT)**, we intend to foster research on topics related to not only identifying misinformation from LLM-generated content, but also to mitigate the propagation effects of this generated misinformation on downstream predictive tasks thus leading to more robust and effective leveraging in-context learning. It is critical that researchers work towards a responsible and trustworthy innovation. For instance, identifying the source documents which the decoding phase of an LLM largely utilised to generate an output text can potentially help a user better understand the content, thus possibly contributing towards developing a trust towards the model. Relevant active areas in LLMs include misinformation detection, in-context learning, detection and mitigation of biases using prompts, alleviating adversarial attacks etc. for several downstream tasks to aid the goal of responsible AI. On the other hand, these responsible AI objectives are often viewed independently to each other, which is a significant constraint because it is necessary to comprehend the interplay and/or conflict between them. The purpose of this workshop is to bring together researchers working on those distinct yet connected areas, as well as their overlap, in order to move towards a more thorough understanding of trustworthy use of LLMs.
 
-### Keynote Speakers
+## Keynote Speakers
 
-[Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
+### [Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
 
-##Title: Trustworthy Generative Information Retrieval
-
-##Abstract:
+### Title: Trustworthy Generative Information Retrieval
+### Abstract:
 Generative AI has transformed the information retrieval landscape over the past year. This has given rise to a class of so-called generative information retrieval systems that rely on generative models to power a wide range of applications, such as conversational search, question answering, document retrieval, and recommendation, to name just a few. As these systems become more reliant on generative models, there arises the need to ensure the outputs produced are accurate, reliable, and trustworthy. This talk will cover a range of research topics related to improving the trustworthiness of such systems, viewed primarily through the lens of information provenance, including models that directly encode provenance information, response grounding via attribution, and minimally abstractive multi-document summarization.
 
 
