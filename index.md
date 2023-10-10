@@ -23,7 +23,7 @@ With reference to the above-mentioned problems of LLM usage, in this workshop, *
 
 ## Keynote Speakers
 
-### [Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
+### - [Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
 
 ### Title: Trustworthy Generative Information Retrieval
 ### Abstract:
