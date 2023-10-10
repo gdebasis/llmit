@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Call for Papers](#call-for-papers) |
+[Keynote Speakers](#keynote-speakers) |
 [Submission Guidelines](#submission-guidelines) |
 [Important Dates](#important-dates) |
 [Organizers](#organizers)
