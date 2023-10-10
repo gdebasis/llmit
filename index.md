@@ -29,6 +29,11 @@ With reference to the above-mentioned problems of LLM usage, in this workshop, *
 ### Abstract:
 Generative AI has transformed the information retrieval landscape over the past year. This has given rise to a class of so-called generative information retrieval systems that rely on generative models to power a wide range of applications, such as conversational search, question answering, document retrieval, and recommendation, to name just a few. As these systems become more reliant on generative models, there arises the need to ensure the outputs produced are accurate, reliable, and trustworthy. This talk will cover a range of research topics related to improving the trustworthiness of such systems, viewed primarily through the lens of information provenance, including models that directly encode provenance information, response grounding via attribution, and minimally abstractive multi-document summarization.
 
+### - [Prof. Adam Jatowt](https://adammo12.github.io/adamjatowt/), Head of the Data Science Group, University of Innsbruck, Austria
+
+### Title: "Temporal Reasoning Capabilities of Large Language Models"
+### Abstract:
+Large language models (LLMs) have recently become quite popular thanks to their excellent performance in many NLP tasks. In this talk, we focus in particular on the temporal reasoning abilities of LLMs. Temporal reasoning is a key aspect of human communication and understanding, however it remains an underexplored area within the context of LLMs. We perform a comprehensive, large-scale analysis of temporal reasoning capabilities of LLMs both in terms of temporal commonsense reasoning and temporal knowledge understanding. We conduct a fine-grained investigation of performance of LLMs across different categories of temporal tasks offering insights into their proficiency in understanding and predicting the continuity, sequence, and progression of events over time. Our findings reveal a nuanced depiction of the capabilities and limitations of the models offering a comprehensive reference for future research in this pivotal domain. Finally, we present several novel datasets that we have constructed for investigating temporal reasoning of ML models.
 
 ## Call for Papers
 
