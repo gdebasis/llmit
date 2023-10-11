@@ -23,13 +23,15 @@ With reference to the above-mentioned problems of LLM usage, in this workshop, *
 
 ## Keynote Speakers
 
-### - [Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
+We are excited to announce the following keynote talks.
+
+#### - [Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
 
 **Title: Trustworthy Generative Information Retrieval**
 
 **Abstract:** Generative AI has transformed the information retrieval landscape over the past year. This has given rise to a class of so-called generative information retrieval systems that rely on generative models to power a wide range of applications, such as conversational search, question answering, document retrieval, and recommendation, to name just a few. As these systems become more reliant on generative models, there arises the need to ensure the outputs produced are accurate, reliable, and trustworthy. This talk will cover a range of research topics related to improving the trustworthiness of such systems, viewed primarily through the lens of information provenance, including models that directly encode provenance information, response grounding via attribution, and minimally abstractive multi-document summarization.
 
-### - [Prof. Adam Jatowt](https://adammo12.github.io/adamjatowt/), Head of the Data Science Group, University of Innsbruck, Austria
+#### - [Prof. Adam Jatowt](https://adammo12.github.io/adamjatowt/), Head of the Data Science Group, University of Innsbruck, Austria
 
 **Title: "Temporal Reasoning Capabilities of Large Language Models"**
 
