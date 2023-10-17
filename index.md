@@ -37,6 +37,16 @@ We are excited to announce the following keynote talks.
 
 **Abstract:** Large language models (LLMs) have recently become quite popular thanks to their excellent performance in many NLP tasks. In this talk, we focus in particular on the temporal reasoning abilities of LLMs. Temporal reasoning is a key aspect of human communication and understanding, however it remains an underexplored area within the context of LLMs. We perform a comprehensive, large-scale analysis of temporal reasoning capabilities of LLMs both in terms of temporal commonsense reasoning and temporal knowledge understanding. We conduct a fine-grained investigation of performance of LLMs across different categories of temporal tasks offering insights into their proficiency in understanding and predicting the continuity, sequence, and progression of events over time. Our findings reveal a nuanced depiction of the capabilities and limitations of the models offering a comprehensive reference for future research in this pivotal domain. Finally, we present several novel datasets that we have constructed for investigating temporal reasoning of ML models.
 
+## Invited Talks
+
+We are excited to announce the following invited talks.
+
+#### - [Kailai Yang](https://stevekgyang.github.io/), Ph.D. Scholar, Dept. of CSE, University of Manchester 
+
+**Title: Towards Interpretable Mental Health Analysis with Large Language Models**
+
+**Abstract:** Mental health-related issues are posing increasing threats to public health worldwide.  Many works have explored NLP techniques to perform mental health analysis in a discriminative manner, but bear the key limitation of lacking interpretability, especially in such a sensitive domain. The latest large language models (LLMs), such as ChatGPT and GPT-4, exhibit strong promise in improving the performance of mental health analysis. In this talk, we report our comprehensive evaluation of different prompting strategies on LLMs' mental health analysis ability, including few-shot learning, chain-of-thought prompting, and emotion supervision signals. We also explore LLMs for interpretable mental health analysis by instructing them to generate explanations for each of their decisions. We convey strict human evaluations to assess the quality of the generated explanations. With full investigations of existing LLMs, we formally model interpretable mental health analysis as text generation tasks,  and build the first multi-task and multi-source interpretable mental health instruction (IMHI) dataset. Based on the IMHI dataset and LLaMA2 foundation models, we train MentaLLaMA, the first open-source instruction-following LLM series for interpretable mental health analysis. [Project link](https://github.com/SteveKGYang/MentalLLaMA)
+
 ## Call for Papers
 
 We solicit submissions on (but not limited to) the following research topics.
