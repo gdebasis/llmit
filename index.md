@@ -47,6 +47,16 @@ We are excited to announce the following invited talks.
 
 **Abstract:** Mental health-related issues are posing increasing threats to public health worldwide.  Many works have explored NLP techniques to perform mental health analysis in a discriminative manner, but bear the key limitation of lacking interpretability, especially in such a sensitive domain. The latest large language models (LLMs), such as ChatGPT and GPT-4, exhibit strong promise in improving the performance of mental health analysis. In this talk, we report our comprehensive evaluation of different prompting strategies on LLMs' mental health analysis ability, including few-shot learning, chain-of-thought prompting, and emotion supervision signals. We also explore LLMs for interpretable mental health analysis by instructing them to generate explanations for each of their decisions. We convey strict human evaluations to assess the quality of the generated explanations. With full investigations of existing LLMs, we formally model interpretable mental health analysis as text generation tasks,  and build the first multi-task and multi-source interpretable mental health instruction (IMHI) dataset. Based on the IMHI dataset and LLaMA2 foundation models, we train MentaLLaMA, the first open-source instruction-following LLM series for interpretable mental health analysis. [Project link](https://github.com/SteveKGYang/MentalLLaMA)
 
+## Tentative Schedule for Workshop Day, 22nd October, 2023 (all times in BST)
+
+* 9:00 - 10:30 :- Keynote talk by Prof. Adam Jatowt
+* 10:30 - 11:00 :- Coffee break
+* 11:00 - 12:30 :- Paper Presentation (Paper ID: 3, 7 and 8 (30min each))
+* 12:30 - 13:30 :- Lunch break
+* 13:30 - 14:30 :- Invited talk by Kailai Yang
+* 15:00 - 15:30 :- Coffee break
+* 15:30 - 17:00 Keynote talk by Donald Metzler 
+
 ## Call for Papers
 
 We solicit submissions on (but not limited to) the following research topics.
