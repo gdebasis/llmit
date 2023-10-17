@@ -55,7 +55,7 @@ We are excited to announce the following invited talks.
 * 12:30 - 13:30 :- Lunch break
 * 13:30 - 14:30 :- Invited talk by Kailai Yang
 * 15:00 - 15:30 :- Coffee break
-* 15:30 - 17:00 Keynote talk by Donald Metzler 
+* 15:30 - 17:00 :- Keynote talk by Donald Metzler 
 
 ## Call for Papers
 
