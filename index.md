@@ -3,7 +3,8 @@ layout: default
 ---
 
 [Call for Papers](#call-for-papers) |
-[Keynote Speakers](#keynote-speakers) |
+[Keynote Talks](#keynote-talks) |
+[Invited Talks](#invited-talks) |
 [Submission Guidelines](#submission-guidelines) |
 [Important Dates](#important-dates) |
 [Organizers](#organizers)
@@ -21,21 +22,21 @@ Despite producing semantically coherent and potentially relevant text for a give
 
 With reference to the above-mentioned problems of LLM usage, in this workshop, **Large Language Models’ Interpretability and Trustworthiness (LLMIT)**, we intend to foster research on topics related to not only identifying misinformation from LLM-generated content, but also to mitigate the propagation effects of this generated misinformation on downstream predictive tasks thus leading to more robust and effective leveraging in-context learning. It is critical that researchers work towards a responsible and trustworthy innovation. For instance, identifying the source documents which the decoding phase of an LLM largely utilised to generate an output text can potentially help a user better understand the content, thus possibly contributing towards developing a trust towards the model. Relevant active areas in LLMs include misinformation detection, in-context learning, detection and mitigation of biases using prompts, alleviating adversarial attacks etc. for several downstream tasks to aid the goal of responsible AI. On the other hand, these responsible AI objectives are often viewed independently to each other, which is a significant constraint because it is necessary to comprehend the interplay and/or conflict between them. The purpose of this workshop is to bring together researchers working on those distinct yet connected areas, as well as their overlap, in order to move towards a more thorough understanding of trustworthy use of LLMs.
 
-## Keynote Speakers
+## Keynote Talks
 
 We are excited to announce the following keynote talks.
 
 #### - [Donald Metzler](https://research.google/people/DonaldMetzler/), Senior Staff Research Scientist, Google
 
-**Title: Trustworthy Generative Information Retrieval**
+*Title*: Trustworthy Generative Information Retrieval
 
-**Abstract:** Generative AI has transformed the information retrieval landscape over the past year. This has given rise to a class of so-called generative information retrieval systems that rely on generative models to power a wide range of applications, such as conversational search, question answering, document retrieval, and recommendation, to name just a few. As these systems become more reliant on generative models, there arises the need to ensure the outputs produced are accurate, reliable, and trustworthy. This talk will cover a range of research topics related to improving the trustworthiness of such systems, viewed primarily through the lens of information provenance, including models that directly encode provenance information, response grounding via attribution, and minimally abstractive multi-document summarization.
+*Abstract*: Generative AI has transformed the information retrieval landscape over the past year. This has given rise to a class of so-called generative information retrieval systems that rely on generative models to power a wide range of applications, such as conversational search, question answering, document retrieval, and recommendation, to name just a few. As these systems become more reliant on generative models, there arises the need to ensure the outputs produced are accurate, reliable, and trustworthy. This talk will cover a range of research topics related to improving the trustworthiness of such systems, viewed primarily through the lens of information provenance, including models that directly encode provenance information, response grounding via attribution, and minimally abstractive multi-document summarization.
 
 #### - [Prof. Adam Jatowt](https://adammo12.github.io/adamjatowt/), Head of the Data Science Group, University of Innsbruck, Austria
 
-**Title: "Temporal Reasoning Capabilities of Large Language Models"**
+*Title*: Temporal Reasoning Capabilities of Large Language Models
 
-**Abstract:** Large language models (LLMs) have recently become quite popular thanks to their excellent performance in many NLP tasks. In this talk, we focus in particular on the temporal reasoning abilities of LLMs. Temporal reasoning is a key aspect of human communication and understanding, however it remains an underexplored area within the context of LLMs. We perform a comprehensive, large-scale analysis of temporal reasoning capabilities of LLMs both in terms of temporal commonsense reasoning and temporal knowledge understanding. We conduct a fine-grained investigation of performance of LLMs across different categories of temporal tasks offering insights into their proficiency in understanding and predicting the continuity, sequence, and progression of events over time. Our findings reveal a nuanced depiction of the capabilities and limitations of the models offering a comprehensive reference for future research in this pivotal domain. Finally, we present several novel datasets that we have constructed for investigating temporal reasoning of ML models.
+*Abstract*: Large language models (LLMs) have recently become quite popular thanks to their excellent performance in many NLP tasks. In this talk, we focus in particular on the temporal reasoning abilities of LLMs. Temporal reasoning is a key aspect of human communication and understanding, however it remains an underexplored area within the context of LLMs. We perform a comprehensive, large-scale analysis of temporal reasoning capabilities of LLMs both in terms of temporal commonsense reasoning and temporal knowledge understanding. We conduct a fine-grained investigation of performance of LLMs across different categories of temporal tasks offering insights into their proficiency in understanding and predicting the continuity, sequence, and progression of events over time. Our findings reveal a nuanced depiction of the capabilities and limitations of the models offering a comprehensive reference for future research in this pivotal domain. Finally, we present several novel datasets that we have constructed for investigating temporal reasoning of ML models.
 
 ## Invited Talks
 
@@ -43,19 +44,31 @@ We are excited to announce the following invited talks.
 
 #### - [Kailai Yang](https://stevekgyang.github.io/), Ph.D. Scholar, Dept. of CSE, University of Manchester 
 
-**Title: Towards Interpretable Mental Health Analysis with Large Language Models**
+*Title*: Towards Interpretable Mental Health Analysis with Large Language Models
 
-**Abstract:** Mental health-related issues are posing increasing threats to public health worldwide.  Many works have explored NLP techniques to perform mental health analysis in a discriminative manner, but bear the key limitation of lacking interpretability, especially in such a sensitive domain. The latest large language models (LLMs), such as ChatGPT and GPT-4, exhibit strong promise in improving the performance of mental health analysis. In this talk, we report our comprehensive evaluation of different prompting strategies on LLMs' mental health analysis ability, including few-shot learning, chain-of-thought prompting, and emotion supervision signals. We also explore LLMs for interpretable mental health analysis by instructing them to generate explanations for each of their decisions. We convey strict human evaluations to assess the quality of the generated explanations. With full investigations of existing LLMs, we formally model interpretable mental health analysis as text generation tasks,  and build the first multi-task and multi-source interpretable mental health instruction (IMHI) dataset. Based on the IMHI dataset and LLaMA2 foundation models, we train MentaLLaMA, the first open-source instruction-following LLM series for interpretable mental health analysis. [Project link](https://github.com/SteveKGYang/MentalLLaMA)
+*Abstract*: Mental health-related issues are posing increasing threats to public health worldwide.  Many works have explored NLP techniques to perform mental health analysis in a discriminative manner, but bear the key limitation of lacking interpretability, especially in such a sensitive domain. The latest large language models (LLMs), such as ChatGPT and GPT-4, exhibit strong promise in improving the performance of mental health analysis. In this talk, we report our comprehensive evaluation of different prompting strategies on LLMs' mental health analysis ability, including few-shot learning, chain-of-thought prompting, and emotion supervision signals. We also explore LLMs for interpretable mental health analysis by instructing them to generate explanations for each of their decisions. We convey strict human evaluations to assess the quality of the generated explanations. With full investigations of existing LLMs, we formally model interpretable mental health analysis as text generation tasks,  and build the first multi-task and multi-source interpretable mental health instruction (IMHI) dataset. Based on the IMHI dataset and LLaMA2 foundation models, we train MentaLLaMA, the first open-source instruction-following LLM series for interpretable mental health analysis. [Project link](https://github.com/SteveKGYang/MentalLLaMA)
 
-## Tentative Schedule for Workshop Day, 22nd October, 2023 (all times in BST)
+#### - [Xi Wang](https://www.xiwangeric.com/), Post-doctoral researcher, University College London 
+
+*Title*: Enhancing Conversational Techniques: the role of Synthetic Dialogue Generation
+
+*Abstract*: This talk delves into the research topic of conversational AI and the pivotal role played by synthetic dialogue generation. Drawing from two distinct approaches, we showcase how synthetic dialogues can advance task-oriented conversations and conversational recommendations. Firstly, we construct a large-scale knowledge base with rich task instruction knowledge, and then we harness the power of advanced language models by pre-training a language model on synthetic dialogues. These dialogues are generated from the structured task instructions, which encode rich task information, serving as a robust foundation for knowledge augmentation. The resulting task-oriented dialogue systems demonstrate significantly improved performance, especially in out-of-domain and semi-supervised scenarios. On the other hand, we also leverage large language models to enrich conversational recommendation datasets with synthetic dialogues that capture nuanced biases and popularity trends. This augmentation showcases its advances by injecting diversity and accuracy into recommendations. Hence, this talk exemplifies the potential of leveraging large language models to address various challenges in the conversational domain and foster many relevant studies.
+
+
+
+## Schedule for Workshop Day, 22nd October, 2023 (all times in BST)
 
 * 9:00 - 10:30 :- Keynote talk by Prof. Adam Jatowt
 * 10:30 - 11:00 :- Coffee break
-* 11:00 - 12:30 :- Paper Presentation (Paper ID: 3, 7 and 8 (30min each))
-* 12:30 - 13:30 :- Lunch break
-* 13:30 - 14:30 :- Invited talk by Kailai Yang
-* 15:00 - 15:30 :- Coffee break
-* 15:30 - 17:00 :- Keynote talk by Donald Metzler 
+* 11:00 - 12:30 :- Presentation of Accepted Papers
+  - 11.00 - 11.30: *Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval* -- Iain Mackie, Shubham Chatterjee and Jeffrey Dalton.
+  - 11.30 - 12.00: *Is LLM Generated Synthetic Data Augmentation Beneficial for Fact Verification?* -- Payel Santra, Madhusudan Ghosh, Debasis Ganguly, Partha Basuchowdhuri and Sudip Kumar Naskar.
+  - 12.00 - 12.30: *Occupational Gender Bias in Large Language Models evaluated on multiple languages* -- Seung-Yeon Back, Eunju Park and Simon S. Woo. 
+* 12:30 - 14:00 :- Lunch break
+* 14:00 - 14:30 :- Invited talk by Kailai Yang
+* 14:30 - 15:30 :- Invited talk by Xi Wang
+* 15:30 - 16:00 :- Coffee break
+* 16:00 - 17:30 :- Keynote talk by Donald Metzler 
 
 ## Call for Papers
 
