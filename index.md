@@ -7,7 +7,7 @@ layout: default
 [Invited Talks](#invited-talks) |
 [Submission Guidelines](#submission-guidelines) |
 [Important Dates](#important-dates) |
-[Schedule](#schedule)
+[Schedule](#schedule) |
 [Organizers](#organizers)
 
 ## About the Workshop
