@@ -57,7 +57,9 @@ Abstract: This talk delves into the research topic of conversational AI and the 
 
 
 
-## Schedule for Workshop Day, 22nd October, 2023 (all times in BST)
+## Schedule
+
+Workshop Day: **22nd October, 2023** (all times in BST)
 
 * 9:00 - 10:30 :- *Temporal Reasoning Capabilities of Large Language Models* -- Keynote talk by Prof. Adam Jatowt
 * 10:30 - 11:00 :- Coffee break
