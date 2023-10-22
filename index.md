@@ -63,13 +63,12 @@ Workshop Day: **22nd October, 2023** (all times in BST)
 
 * 9:00 - 10:30 :- *Temporal Reasoning Capabilities of Large Language Models* -- Keynote talk by Prof. Adam Jatowt
 * 10:30 - 11:00 :- Coffee break
-* 11:00 - 12:30 :- Presentation of Accepted Papers
-  - 11.00 - 11.30: *Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval* -- Iain Mackie, Shubham Chatterjee and Jeffrey Dalton.
-  - 11.30 - 12.00: *Is LLM Generated Synthetic Data Augmentation Beneficial for Fact Verification?* -- Payel Santra, Madhusudan Ghosh, Debasis Ganguly, Partha Basuchowdhuri and Sudip Kumar Naskar.
-  - 12.00 - 12.30: *Occupational Gender Bias in Large Language Models evaluated on multiple languages* -- Seung-Yeon Back, Eunju Park and Simon S. Woo. 
+* 11:00 - 12:00 :- *Enhancing Conversational Techniques: the role of Synthetic Dialogue Generation* -- Invited talk by Xi Wang
+* 12.00 - 12.30: *Occupational Gender Bias in Large Language Models evaluated on multiple languages* -- Seung-Yeon Back, Eunju Park and Simon S. Woo. 
 * 12:30 - 14:00 :- Lunch break
 * 14:00 - 14:30 :- *Towards Interpretable Mental Health Analysis with Large Language Models* -- Invited talk by Kailai Yang
-* 14:30 - 15:30 :- *Enhancing Conversational Techniques: the role of Synthetic Dialogue Generation* -- Invited talk by Xi Wang
+* 14:30 - 15:00 :- *Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval* -- Iain Mackie, Shubham Chatterjee and Jeffrey Dalton.
+* 15.00 - 15.30 :- *Is LLM Generated Synthetic Data Augmentation Beneficial for Fact Verification?* -- Payel Santra, Madhusudan Ghosh, Debasis Ganguly, Partha Basuchowdhuri and Sudip Kumar Naskar.
 * 15:30 - 16:00 :- Coffee break
 * 16:00 - 17:30 :- *Trustworthy Generative Information Retrieval* -- Keynote talk by Donald Metzler 
 
